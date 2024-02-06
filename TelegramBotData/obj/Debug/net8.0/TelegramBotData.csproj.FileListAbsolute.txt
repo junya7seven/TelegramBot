@@ -1,0 +1,14 @@
+C:\Users\junya\source\repos\TelegramBot\TelegramBotData\bin\Debug\net8.0\TelegramBotData.deps.json
+C:\Users\junya\source\repos\TelegramBot\TelegramBotData\bin\Debug\net8.0\TelegramBotData.dll
+C:\Users\junya\source\repos\TelegramBot\TelegramBotData\bin\Debug\net8.0\TelegramBotData.pdb
+C:\Users\junya\source\repos\TelegramBot\TelegramBotData\obj\Debug\net8.0\TelegramBotData.csproj.AssemblyReference.cache
+C:\Users\junya\source\repos\TelegramBot\TelegramBotData\obj\Debug\net8.0\TelegramBotData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junya\source\repos\TelegramBot\TelegramBotData\obj\Debug\net8.0\TelegramBotData.AssemblyInfoInputs.cache
+C:\Users\junya\source\repos\TelegramBot\TelegramBotData\obj\Debug\net8.0\TelegramBotData.AssemblyInfo.cs
+C:\Users\junya\source\repos\TelegramBot\TelegramBotData\obj\Debug\net8.0\TelegramBotData.csproj.CoreCompileInputs.cache
+C:\Users\junya\source\repos\TelegramBot\TelegramBotData\obj\Debug\net8.0\TelegramBotData.dll
+C:\Users\junya\source\repos\TelegramBot\TelegramBotData\obj\Debug\net8.0\refint\TelegramBotData.dll
+C:\Users\junya\source\repos\TelegramBot\TelegramBotData\obj\Debug\net8.0\TelegramBotData.pdb
+C:\Users\junya\source\repos\TelegramBot\TelegramBotData\obj\Debug\net8.0\ref\TelegramBotData.dll
+C:\Users\junya\source\repos\TelegramBot\TelegramBotData\bin\Debug\net8.0\TelegramBotData.runtimeconfig.json
+C:\Users\junya\source\repos\TelegramBot\TelegramBotData\obj\Debug\net8.0\TelegramBotData.genruntimeconfig.cache
